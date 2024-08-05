@@ -1,16 +1,17 @@
 # Bump-Bot for Pump.fun and Raydium
-This bot will buy and sell tokens automatically keeping you at the top of Pump.fun's main page OR inflate Volumes on Raydium.
 
-# Download the bot
-If you have git installed on your computer you can fetch the content of this repository with the command
+This bot will buy and sell tokens automatically, keeping you at the top of Pump.fun's main page OR inflating volumes on Raydium.
 
-``` 
-git clone https://github.com/PasusS0ldev/Micro-Buy-Bot-for-Pump.Fun.git
-```
-Else, you can download the repository in a zip here : 
-```
-https://github.com/EVMBotDev/pump.fun-bump_bot/archive/refs/heads/main.zip
-```
+## Download the Bot
+
+If you have Git installed on your computer, you can fetch the content of this repository with the command:
+```sh
+git clone https://github.com/Recession-Man/CustomBumpBot.git
+
+Alternatively, you can download the repository as a zip file:
+
+_____________________________
+
 
 # Setting up the bot
 
@@ -114,6 +115,3 @@ const FEES =
 ```
 Happy bumping!
 
-# If you are feeling generous buy me a coffee!
-
-SOL adress: 9morc2r3NW4krcUuh934ZuJs7MnCJxECjWdAG35oCkqN
